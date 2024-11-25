@@ -2,7 +2,7 @@ const express = require("express") ;
 let port = 3000 ;
 const app = express() ;
 let data = [{
-    name : "jhon",
+    name : "john",
     kidneys : [{
         condition : "good" ,
     } , {
